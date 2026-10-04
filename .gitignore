@@ -1,0 +1,6 @@
+# Auto backups
+printer-*.cfg
+
+ShakeTune_results
+*.gz
+*.png
